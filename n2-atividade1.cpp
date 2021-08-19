@@ -2,7 +2,7 @@
 
 int main () {
 	float tempoGasto 		= 0;
-	float velocidadeMedia 	= 0;
+	float velocidadeMedia 		= 0;
 	float distancia			= 0;
 	float litrosUsados		= 0;
 	
